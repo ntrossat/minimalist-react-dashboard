@@ -1,0 +1,9 @@
+services:
+  server:
+    build:
+      context: .
+    volumes:
+      - ./src:/app/src
+    ports:
+      - 8080:8080
+    restart: no
