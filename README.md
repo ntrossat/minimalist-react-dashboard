@@ -10,7 +10,7 @@ This template provides a minimal setup to build a data visualization dashboard w
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/ntrossat/react-dashboard.git
+git clone https://github.com/ntrossat/minimalist-react-dashboard.git
 ```
 
 2. **Navigate to the project directory:**
