@@ -16,7 +16,7 @@ git clone https://github.com/ntrossat/minimalist-react-dashboard.git
 2. **Navigate to the project directory:**
 
 ```bash
-cd react-dashboard
+cd minimalist-react-dashboard
 ```
 
 3. **Install dependencies:**
